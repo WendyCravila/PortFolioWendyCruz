@@ -1,5 +1,5 @@
 # PortFolioWendyCruz
-Proyectos de Wendy Cruz Avila - Data Manager/Scrum Master
+Proyectos de Wendy Cruz Avila - Data Manager/Scrum Master/ IA / Gobierno de Datos / Cumplimiento
 
 Amplia experiencia liderando equipos multidisciplinarios en el sector financiero usando metodologías ágiles, apasionada de una cultura data driven, que integre gobierno de datos y soluciones analíticas para la optimización de procesos, cuento con una certificación de Data Scientist por el Tecnológico de Monterrey, una de mis fortalezas radica en la combinación de mis habilidades de liderazgo y mis habilidades técnicas.
 
